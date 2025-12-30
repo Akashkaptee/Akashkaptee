@@ -1,4 +1,6 @@
 ## Hi there 👋
+# Akash kapte
+### Quantum computing intern
 
 <!--
 **Akashkaptee/Akashkaptee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
